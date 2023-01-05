@@ -40,7 +40,7 @@ Some next steps I'd like to take to clarify these findings include training the 
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter Notebook](./working_notebook.ipynb) or my [presentation](./Presentation.pdf).
+Please review my full analysis in my [Jupyter Notebook](./working_notebook.ipynb) or my [presentation](./presentation.pdf).
 
 For any additional questions, please contact Drew Holcombe at drew.holcombe7@gmail.com.
 
@@ -49,7 +49,7 @@ For any additional questions, please contact Drew Holcombe at drew.holcombe7@gma
 ```
 ├── README.md                                    <- The top-level README for reviewers of this project
 ├── Final_Notebook.ipynb                         <- Narrative documentation of analysis in Jupyter notebook
-├── Twitter_Sentiment_Presentation.pdf           <- PDF version of project presentation
+├── presentation.pdf                             <- PDF version of project presentation
 ├── data                                         <- Externally sourced project data
 └── Graphs                                       <- Graphs created in working notebook
 ```
